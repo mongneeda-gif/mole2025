@@ -6,7 +6,7 @@ const timeLeft = document.querySelector("#time-left");
 let timeId = null;
 let hitPosition; 
 let result = 0;
-let currentTime = 10;
+let currentTime = 60;
 
 function randumSquare() {
     squares.forEach((square) => { // for(let square of squares)
