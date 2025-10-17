@@ -2,16 +2,16 @@ body{
     text-align: center;
 }
 .grid {
-    width: 456px;
-    height: 456px;
+    width: 366px;
+    height: 366px;
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto;
     border: 1px solid black;
 }
 .square {
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     border: 1px solid black;
 
 }
